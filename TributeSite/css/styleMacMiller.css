@@ -1,0 +1,55 @@
+body {
+background-image:url("img/mac-miller.jpg") no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+}
+
+h1 {
+color: black;
+text-align: right;
+}
+h2 {
+color: blue;
+text-align: left;
+}
+h4 {
+padding: 0;
+color:#3681A4;
+text-align: right;
+}
+li {
+font-size: 30px;
+color:#3681A4;
+text-align: left;
+}
+
+#name {
+font-family: "Permanent Marker", cursive;
+}
+#life {
+font-style: italic;
+color: black;
+text-align: right;
+}
+#facts {
+padding: 50px 50px 0px 0px;
+}
+
+#hits {
+color:antiquewhite;
+font-family: "Permanent Marker", Sans-serif;
+text-align: left;
+}
+#hits :visited {
+color: blue;
+}
+#albums {
+color: blue;
+}
+#albums :visited {
+color: blue;
+}
+#photo {
+position: static;
+}
